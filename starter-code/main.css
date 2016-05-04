@@ -1,0 +1,65 @@
+/* font-family: 'Bangers', cursive; */	
+body {
+	margin-top: 100px;
+	background-color: #00B6FF;
+	font-family: 'Bangers', cursive;
+}
+h1 {
+	font-size: 60px;
+	background-color: #00B6FF;
+}
+h2 {
+	font-size: 40px;
+}
+div {
+	background-color: #00D9FF;
+	border-radius: 2px;
+}
+li {
+	font-size: 20px;
+}
+.header {
+	text-align: center;
+}
+.line {
+	background: black;
+	border-bottom: 4px solid black;
+	margin-bottom: 30px;
+	margin-top: 40px;
+	border-radius: 4px;
+}
+.about-me {
+	font-size: 24px;
+	padding: 10px;
+}
+.button {
+	background-color: #00D9FF;
+	border: none;
+	color: black;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	font-family: 'Bangers', cursive;
+}
+.picture1 {
+	padding-bottom: 20px;
+	text-align: center;
+}
+.experience {
+	font-size: 24px;
+	padding: 10px;
+}
+.relevant-experience {
+	padding: 10px;
+	padding-bottom: 20px;
+}
+.education {
+	padding: 10px;
+}
+#about-me-header {
+	text-align: center;
+	background-color: #00B6FF;
+	margin-bottom: 10px;
+}
